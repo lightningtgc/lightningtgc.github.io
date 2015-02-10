@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "lightningtgc",
-    "repositoryName": "lightningtgc.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"lightningtgc","repositoryName":"lightningtgc.github.io","branch":"master"},"site":{"title":"lightningtgc 汤桂川","description":"lightningtgc ","url":"http://lightningtgc.github.io"},"socialnetwork":{"email":"lightningtgc@gmail.com"},"theme":{"name":"Casper","url":"http://lightningtgc.github.io/themes/Casper"}}
